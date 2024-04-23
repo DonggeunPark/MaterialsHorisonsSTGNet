@@ -1,5 +1,5 @@
 ### Spatiao Temporal Generative Network
-Donggeun Park<sup>a, Jaemin Lee<sup>a, Hugon Lee<sup>a, Grace X. Gu<sup>b, and Seunghwa Ryu<sup>*a
+Donggeun Park<sup>a</sup>, Jaemin Lee<sup>a</sup>, Hugon Lee<sup>a</sup>, Grace X. Gu<sup>b</sup>, and Seunghwa Ryu<sup>*a</sup>
 a.	Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon 34141, Republic of Korea
 b.	Department of Mechanical Engineering, University of California, Berkeley, CA 94720, USA
 
