@@ -4,17 +4,17 @@ a. Department of Mechanical Engineering, Korea Advanced Institute of Science and
 <br>
 b. Department of Mechanical Engineering, University of California, Berkeley, CA 94720, USA
 
-**Step 1**: Training step (stress)
+**Step 1**: Training step (stress)<br>
 Run ‘*STGNETMAIN.py*’ in *Maincode directory*
 
-**Step 2**: Stress prediction
+**Step 2**: Stress prediction<br>
 Download ‘*STGNet model.egg*’ in *PretrainedModel_STGNet/STGNet model*<br>
 Run ‘*Model-prediction-stress.py*’ in *Maincode directory*
 
-**Step 3**: Training step (crack)
+**Step 3**: Training step (crack)<br>
 Run ‘*transfer learning.p*y’ in *Maincode directory*
 
-**Step 4**: Crack prediction 
+**Step 4**: Crack prediction <br>
 Download ‘*STGNet-crack.egg*’ in *pre-trained modelin PretrainedModel_STGNet - crack*<br>
 Run ‘*Model-prediction-crack.py*’ *in Maincode directory*
 
