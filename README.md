@@ -3,7 +3,7 @@
 <br> a. Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon 34141, Republic of Korea
 <br>
 b. Department of Mechanical Engineering, University of California, Berkeley, CA 94720, USA
-# Code process
+# Code Instruction
 **Step 1**: Training step (stress)<br>
 Run ‘*STGNETMAIN.py*’ in *Maincode directory*
 
