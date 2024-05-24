@@ -4,6 +4,7 @@ a. Department of Mechanical Engineering, Korea Advanced Institute of Science and
 <br>
 b. Department of Mechanical Engineering, University of California, Berkeley, CA 94720, USA
 
+# Code process
 **Step 1**: Training step (stress)<br>
 Run ‘*STGNETMAIN.py*’ in *Maincode directory*
 
