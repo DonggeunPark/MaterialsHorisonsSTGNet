@@ -8,14 +8,14 @@ b. Department of Mechanical Engineering, University of California, Berkeley, CA 
 Run ‘*STGNETMAIN.py*’ in *Maincode directory*
 
 **Step 2**: Stress prediction
-Download ‘*STGNet model.egg*’ in *PretrainedModel_STGNet/STGNet model*
+Download ‘*STGNet model.egg*’ in *PretrainedModel_STGNet/STGNet model*<br>
 Run ‘*Model-prediction-stress.py*’ in *Maincode directory*
 
 **Step 3**: Training step (crack)
 Run ‘*transfer learning.p*y’ in *Maincode directory*
 
 **Step 4**: Crack prediction 
-Download ‘*STGNet-crack.egg*’ in *pre-trained modelin PretrainedModel_STGNet - crack*
+Download ‘*STGNet-crack.egg*’ in *pre-trained modelin PretrainedModel_STGNet - crack*<br>
 Run ‘*Model-prediction-crack.py*’ *in Maincode directory*
 
 
