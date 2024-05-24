@@ -21,7 +21,7 @@ Run ‘*Model-prediction-crack.py*’ *in Maincode directory*
 
 ![coverfigure](https://github.com/DonggeunPark/DG/assets/131414228/b8b30fe0-185f-45bb-bc21-7933fa3a41fe)
 
-# Library version
+# Library version in this code
 tensorflow                2.6.0         
 keras                     2.6.0              
 tensorflow-gpu            2.6.0               
